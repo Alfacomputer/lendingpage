@@ -17,6 +17,7 @@ a {
 .header {
     background-image: url('../img/bg.svg');
     background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'ABeeZee', sans-serif;
 }
 
@@ -438,11 +439,8 @@ a {
     color: #895745;
     max-width: 220px;
     margin: 0 auto;
-}
+} 
 @media (min-width: 400px){
-    .header {
-        background-size: cover;
-    } 
     .header__text {
         font-size: 20px;
         line-height: 45px;
