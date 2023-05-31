@@ -476,4 +476,7 @@ a {
     .main__box--subtext {
         font-size: 20px;
     }
+    .footer__copyright {
+        font-size: 18px;
+    }
 }
