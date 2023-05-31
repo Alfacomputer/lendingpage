@@ -252,6 +252,7 @@ a {
     transition: .3s;
     background: #F5F5F5;
     display: none;
+    overflow-y: auto;
 }
 .modaltwo{
     position: fixed;
